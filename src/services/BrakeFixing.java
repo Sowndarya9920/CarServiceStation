@@ -7,7 +7,7 @@ public class BrakeFixing implements IService{
     CarType carType;
     static HashMap<CarType,Integer> priceMap = new HashMap<>();
     static {
-        priceMap.put(CarType.HatchBack,2000); //₹ 2000 ₹ 4000 ₹ 5000
+        priceMap.put(CarType.HatchBack,2000);
         priceMap.put(CarType.Sedan,4000);
         priceMap.put(CarType.Suv,5000);
     }
