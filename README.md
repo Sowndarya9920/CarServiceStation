@@ -14,4 +14,5 @@
 |    GF01      | Gear Servicing      |    Rs.3000   |  Rs.6000   |  Rs.8000     |
 +--------------+---------------------+--------------+------------+--------------+
 ```
-
+#### :car: In addition, if the total service bill is more than ₹ 10000, a complimentary cleaning is provided and specified
+in the bill.
